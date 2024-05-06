@@ -9,6 +9,6 @@ of interferon gamma to prevent infection in chronic granulomatous disease. N Eng
 [2] T.R. Fleming and D.P. Harrington. Counting Processes and Survival Analysis. John Wiley and
 Sons Inc., New York, 2005. <br />
 [3] S. Rabe-Hesketh and A. Skrondal. Multilevel and Longitudinal Modeling Using Stata (3rd Edition). Stata Press, College
-Station (TX, USA), 2012. <br />
+Station, TX, 2012. <br />
 [4] T.A. Balan and H. Putter. frailtyEM: An R package for estimating semiparametric shared frailty
-models. J Stat Softw, 90(7):1–29, 2019.. <br />
+models. J Stat Softw, 90(7):1–29, 2019. <br />
