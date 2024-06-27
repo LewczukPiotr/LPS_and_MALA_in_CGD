@@ -217,7 +217,7 @@ ff4 = function(X,Y,Z,W) {X * (Y %*% t(Y) - Z * W)}
 
 
 
-################################# Survival Corves ######################################
+################################# Survival Curves ######################################
 surv_curves = function(hazard, G, col) {
   surv = exp(-cumsum(hazard)*Delta)
   log_cum_hazard=log(cumsum(hazard)*Delta)
