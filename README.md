@@ -1,6 +1,5 @@
 # LPS and MALA in CGD <br />
-The study on Interferon Gamma in Chronic Granulomatous Disease was originally published in 1991 [1]. The patient-level dataset of the study is publicly available in [2, 3]. The file as used in this project, cgd.csv, is a slightly modified (recoded) dataset from the frailtyEM package [4]. <br />
-The underlying algebraic model derivations are detailed in my master's thesis, which you can find at www.lewczuk.info/lps.
+The study on Interferon Gamma in Chronic Granulomatous Disease was originally published in 1991 [1]. The patient-level dataset of the study is publicly available in [2, 3]. The file as used in this project, cgd.csv, is a slightly modified (recoded) dataset from the frailtyEM package [4]. The underlying algebraic model derivations are detailed in my master's thesis, which you can find at www.lewczuk.info/lps. <br />
 
 <br />
 References: <br />  
